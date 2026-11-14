@@ -79,7 +79,7 @@ python notification-agent/notification_agent.py
 | Name | Role |
 |---|---|
 | Nethma Weerasinghe | Matcher Agent, Explainer Agent, system integration |
-| [Name] | Reader Agent |
+| Peshan Pasindu | Reader Agent |
 | [Name] | Dashboard Agent |
 | [Name] | Notification Agent |
 
